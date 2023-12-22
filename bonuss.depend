@@ -1,6 +1,16 @@
 # depslib dependency file v1.0
-1702985993 source:c:\users\merva\onedrive\desktop\bonuss\main.c
+1703278226 source:c:\users\merva\onedrive\desktop\bonuss\main.c
 	<stdio.h>
 	<stdlib.h>
 	<limits.h>
+	<time.h>
+	<Windows.h>
+	"structsfile.h"
+
+1703252730 c:\users\merva\onedrive\desktop\bonuss\queue.h
+
+1703250322 source:c:\users\merva\onedrive\desktop\bonuss\queue.c
+	"queue.h"
+
+1703278203 c:\users\merva\onedrive\desktop\bonuss\structsfile.h
 
