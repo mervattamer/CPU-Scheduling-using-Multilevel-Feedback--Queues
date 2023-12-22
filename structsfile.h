@@ -1,6 +1,7 @@
 #ifndef STRUCTSFILE_H_INCLUDED
 #define STRUCTSFILE_H_INCLUDED
 
+// a structure to represent a process
 struct process
 {
     int process_id;

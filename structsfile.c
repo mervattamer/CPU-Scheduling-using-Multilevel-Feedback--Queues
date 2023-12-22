@@ -1,6 +1,6 @@
 #include "structsfile.h"
 
-
+// queue functions implementations using array
 struct Queue* createQueue(int Qsize)
 {
     struct Queue* queue = (struct Queue*)malloc(sizeof(struct Queue));
