@@ -263,7 +263,7 @@ int main()
 
 
     //while all queues are not empty
-    while(!isEmpty(RR1) || !isEmpty(RR2) || !isEmpty(FCFS) || p_num<100 )
+    while(!isEmpty(RR1) || !isEmpty(RR2) || !isEmpty(FCFS) || p_num<20 )
     {
 
 
