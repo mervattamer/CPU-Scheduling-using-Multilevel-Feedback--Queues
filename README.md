@@ -1,6 +1,6 @@
-CPU SCHEDULING USING QUEUES
+#CPU SCHEDULING USING QUEUES
 
-I. PROJECT DESCRIPTION:
+#PROJECT DESCRIPTION:
 This project is a C source code for implementing Multi-level feedback queue. Multilevel feedback queue is a scheduling algorithm. 
 
 In general, the Multilevel feedback queue algorithm: 
@@ -19,10 +19,10 @@ Process promotion and demotion:
   - The process is promoted from the first queue to the second queue if it was not complete in a quantum of 8.
   - In the second queue, there is a 50% chance that the process is demoted back to the first queue and a 50% chance it is promoted to the third queue if it was not processed completely after a quantum of 16. 
 
-II. CHALLENGES FACED:
+#CHALLENGES FACED:
 dividing the cpu time was the challenging part in this project. I used the time.h library to aid in implementing that. 
 
-III. HOW TO RUN:
+#HOW TO RUN:
 Running this code is very simple just compile the main.c file and run. it does not take any user input so you should be good to go!
 
 
