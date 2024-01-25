@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your CPU Scheduling using Queues project:
-
----
-
 # CPU Scheduling Using Queues
 
 ## Project Description
